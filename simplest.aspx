@@ -3,7 +3,7 @@
 <body>
 <p>
 <%
-	Response.Write("Hello, ASP.NET!");
+	Response.Write("Hello, ASP.NETxxx!");
 %>
 </p>
 </body>
